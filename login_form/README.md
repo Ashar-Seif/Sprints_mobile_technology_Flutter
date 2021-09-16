@@ -5,5 +5,5 @@ A login form using flutter.
 ## Getting Started
 The project UI
 
-![App UI](/Login.PNG)
+![App UI](Login.PNG)
 
